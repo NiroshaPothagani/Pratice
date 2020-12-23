@@ -1,0 +1,4 @@
+- Git is a free and open source version control system.
+- Github : A website to host your repositaries online.
+- it is very scalable ,free of cost, super fast, open source.
+- we can use git by the .command line, .code editors, .GUI, sourcetree+
